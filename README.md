@@ -1,4 +1,4 @@
-# View Xinjie Ye's Resume
+# Xinjie Ye's Resume
 
 Thanks for stopping by! This repository exists so you can quickly grab the most up-to-date version of my resume.
 

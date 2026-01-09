@@ -1,22 +1,18 @@
-# Xinjie Ye Resume
+# View Xinjie Ye's Resume
 
-## Overview
-This repository stores the current published version of Xinjie Ye's resume so it can be tracked, shared, and updated with ease.
+Thanks for stopping by! This repository exists so you can quickly grab the most up-to-date version of my resume.
 
-## Files
-- `xinjie-resume.pdf` - export-ready resume that can be sent to recruiters or uploaded to job portals.
+## Quick Start
+1. Click `xinjie-resume.pdf` in this repository (or download it) to open the latest resume.
+2. Use your PDF viewer to zoom for readability or print to paper if needed.
+3. When sharing with someone else, send the PDF itself. It is kept current, so you can rely on it being the latest version.
 
-## How to Use
-1. Download `xinjie-resume.pdf` when you need to attach or upload your resume.
-2. If a service only accepts DOC/DOCX, convert the PDF using your preferred tool before submitting.
-3. Keep an archived copy of any version you send out by tagging a commit so you can revert later if necessary.
+## What You Will Find
+- `xinjie-resume.pdf` - the only file you need. It contains my complete resume laid out exactly how I send it to employers.
 
-## Updating the Resume
-1. Edit your source document locally (e.g., Word, Google Docs, or LaTeX).
-2. Export a fresh PDF named `xinjie-resume.pdf`, replacing the existing file in this folder.
-3. Review the PDF to ensure formatting, fonts, and hyperlinks are intact.
-4. Commit the updated PDF with a clear message describing the change.
+## Version Notes
+- The file in this repository is always the canonical public version. If I ever provide a custom-tailored resume directly to you, please reference that version for your specific opportunity.
+- Previous iterations may exist in the git history; feel free to explore commits if you need to see how my experience evolved over time.
 
-## Sharing
-- To share publicly, send a link to this repository or the PDF directly.
-- For private submissions, download the PDF locally rather than linking to this repo, so you can tailor each version if needed.
+## Questions?
+Open an issue or send me a message (if you already have my contact information). I'm happy to provide additional materials or answer any follow-up questions.
